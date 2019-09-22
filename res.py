@@ -12,12 +12,12 @@ def clicked():
     v0.set(r)
 
     # ------------list of prices--------------
-    #chicken_p = 5
-    #burger_p = 12
-    #filet_o_meal = 15
-    #fries_p = 3
-    #drinks_p = 2
-    #tax = 0.2 %
+    chicken_p = 5
+    burger_p = 12
+    filet_o_meal = 15
+    fries_p = 3
+    drinks_p = 2
+    tax = 0.2 %
 
     b = 12*int(v1.get())
     c = 5*int(v2.get())
